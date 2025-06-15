@@ -1,0 +1,64 @@
+1. Abordagem da Pesquisa
+A pesquisa adotará uma abordagem quali-quantitativa, focando primeiramente na compreensão aprofundada do problema e das necessidades (qualitativo) e na identificação de indicadores que possam ser quantificados para a predição (quantitativo).
+
+Qualitativa: Para explorar as percepções e necessidades da equipe de assistência social e coordenadores de curso sobre a evasão relacionada à saúde mental, bem como a viabilidade e os desafios de uma integração sistêmica.
+Quantitativa: Para identificar e analisar dados já existentes ou potenciais indicadores que possam ser utilizados em um modelo de predição, como desempenho acadêmico, frequência e outras variáveis demográficas.
+2. Tipo de Pesquisa
+Considerando a etapa de TCC 1 e o objetivo de "dar o caminho", a pesquisa será de natureza exploratória-descritiva, com elementos de estudo de caso e pesquisa documental.
+
+Exploratória-Descritiva: Visa familiarizar-se com o problema da evasão universitária ligada à saúde mental no contexto da UFC Quixadá e descrever as características de um modelo de gestão acadêmica integrado. 
+Estudo de Caso: A pesquisa se concentrará no Campus da UFC em Quixadá, buscando entender suas particularidades, os serviços de assistência social existentes e a dinâmica com os coordenadores de curso. 
+
+Pesquisa Documental: Essencial para o TCC 1, permitirá a análise de documentos institucionais, relatórios e dados já disponíveis, bem como a literatura existente sobre o tema, para fundamentar a proposta. 
+3. Universo e Amostra/Participantes
+Universo: Estudantes universitários da UFC Quixadá, com foco nos que apresentam ou já apresentaram problemas de saúde mental (ansiedade, depressão, burnout), e o corpo técnico-administrativo e docente envolvido no apoio estudantil e gestão de cursos. 
+
+Participantes (TCC 1 - focando na análise):
+Documentos Institucionais: Regulamentos da assistência estudantil, dados anonimizados de evasão (se acessíveis), fluxos de atendimento existentes.
+Literatura Científica: Artigos, teses, dissertações e livros sobre saúde mental universitária, evasão acadêmica, sistemas de apoio psicossocial e predição de risco de evasão, com ênfase em estudos brasileiros e sistemas semelhantes ao SIGAA. 
+
+
+
+
+Colaboração com a Equipe do Campus: Parceria com a assistência social e coordenadores de curso para acesso a informações institucionais e validação conceitual da proposta.  Nesta fase, a interação pode ser mais para entendimento e consulta do que para coleta formal via entrevistas com Comitê de Ética.
+4. Instrumentos e Técnicas de Coleta de Dados (Ajustado para TCC 1)
+Considerando a restrição de tempo e a complexidade da aprovação ética para coleta com alunos, o foco no TCC 1 será:
+
+Análise Documental:
+Documentos Institucionais: Regimentos internos da UFC Quixadá, relatórios da assistência estudantil (se disponíveis e anonimizados), dados de matrícula e evasão (se possível obter dados agregados e desidentificados para análise de tendências).
+Literatura Científica: Levantamento bibliográfico aprofundado em bases de dados como SciELO, Google Scholar, Portal de Periódicos CAPES, Web of Science e Scopus, utilizando termos como "saúde mental universitária", "evasão acadêmica", "predição evasão", "sistemas de apoio estudantil", "tecnologias educacionais saúde mental", "SIGAA integração", "ansiedade depressão universitários Brasil".  A ênfase será em trabalhos relacionados que destaquem a falta de integração entre dados acadêmicos e suporte psicológico. 
+
+
+
+
+Consulta a Especialistas (não formal): Interações informais ou reuniões com a equipe de assistência social e coordenadores de curso (conforme sua parceria ), não para coleta de dados de pesquisa sujeita a CEP, mas para compreender os fluxos de trabalho atuais, os desafios e as necessidades práticas em relação ao apoio e monitoramento de alunos. Isso ajudará a construir um modelo mais realista e aplicável.
+5. Análise e Tratamento dos Dados
+Os dados coletados (principalmente via análise documental) serão submetidos a:
+
+Análise Qualitativa (Análise de Conteúdo): Para a literatura científica, será realizada uma análise de conteúdo dos artigos selecionados para identificar:
+Problemas e desafios relacionados à saúde mental e evasão universitária. 
+
+
+Modelos de sistemas de apoio psicossocial e predição de risco de evasão. 
+
+
+
+As lacunas na integração de dados acadêmicos e suporte psicológico, conforme destacado em trabalhos relacionados. 
+As melhores práticas e recomendações para intervenção precoce.
+Análise Quantitativa (Potencial/Exploratória): Se houver acesso a dados numéricos agregados e anonimizados (ex: taxas de evasão por curso, por período), pode-se realizar uma análise descritiva simples para identificar padrões e justificar a necessidade de um sistema preditivo. O foco não será na modelagem preditiva avançada, mas na identificação dos tipos de dados que seriam úteis para tal e como eles se relacionam com o problema.
+6. Etapas de Desenvolvimento (Foco TCC 1)
+O cronograma do TCC 1 será adaptado para as seguintes etapas: 
+
+Mês 1-2: Revisão Bibliográfica Aprofundada: Levantamento e análise crítica da literatura sobre os conceitos-chave (problemas mentais na universidade, sistemas de apoio psicossocial e predição de risco de evasão), focando em estudos que embasem a necessidade de um sistema integrado e a viabilidade da predição.
+
+
+
+Mês 2-3: Análise Documental e Contextualização: Coleta e análise de documentos institucionais da UFC Quixadá (se aplicável e acessível) para entender o contexto local e os processos de apoio existentes.
+Mês 3-4: Concepção da Proposta do Modelo de Integração e Predição:
+Com base na revisão bibliográfica e na análise contextual, desenvolver a ideia de integração com o SIGAA, detalhando quais pontos seriam evidenciados (desempenho acadêmico, frequência, etc.) para os coordenadores de curso. 
+
+Propor o "caminho" para um possível sistema, que pode ser inicialmente um checklist ou um conjunto de diretrizes com os pontos a serem observados pelos coordenadores. Isso não exige implementação tecnológica, mas descreve a lógica e os indicadores. 
+Desenhar fluxogramas conceituais ou diagramas que ilustrem como os dados fluiriam do SIGAA para o sistema de alerta e como a assistência estudantil seria acionada. 
+Mês 4: Redação da Metodologia e Fundamentação: Finalizar a seção de metodologia e avançar significativamente na fundamentação teórica do TCC 1.
+7. Considerações Éticas
+Para o TCC 1, como a coleta de dados primários com seres humanos (questionários, entrevistas com alunos ou equipe) não será o foco, a necessidade de aprovação do Comitê de Ética em Pesquisa (CEP) não é imediata para esta fase. A aprovação do CEP será crucial e obrigatória para o TCC 2, caso haja a aplicação de instrumentos como os questionários MOS-SSS e MBI-SS ou entrevistas formais com participantes humanos. 
